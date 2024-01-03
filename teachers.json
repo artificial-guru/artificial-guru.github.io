@@ -1,0 +1,232 @@
+[
+    {
+      "gender": "female",
+      "name": {
+        "jobtitle": "Professor",
+        "first": "Chloe",
+        "last": "Ma"
+      },
+      "email": "chloe.ma@example.com",
+      "login": {
+        "uuid": "49e433a8-6424-4b04-9bd8-d690d977e27a",
+        "username": "lazyswan477",
+        "password": "success1"
+      },
+      "phone": "544-814-6686",
+      "id": {
+        "name": "CHMA"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/81.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "jobtitle": "Professor",
+        "first": "Ava",
+        "last": "Li"
+      },
+      "email": "ava.li@example.com",
+      "login": {
+        "uuid": "a08fc929-6b4d-4927-b62b-b7885206be34",
+        "username": "purplelion627",
+        "password": "darryl"
+      },
+      "phone": "(599)-213-2126",
+      "id": {
+        "name": "AVLI"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/14.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "jobtitle": "Doktorand",
+        "first": "Lillian",
+        "last": "Webb"
+      },
+      "email": "lillian.webb@example.com",
+      "login": {
+        "uuid": "94c29ff3-2532-43a3-8128-4dfc7889f948",
+        "username": "bluegoose138",
+        "password": "lord"
+      },
+      "phone": "0118547 404 1126",
+      "id": {
+        "name": "NINO"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/85.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+      }
+    },
+    {
+      "gender": "male",
+      "name": {
+        "jobtitle": "Doktorand",
+        "first": "Daniel",
+        "last": "Christiansen"
+      },
+      "email": "daniel.christiansen@example.com",
+      "login": {
+        "uuid": "d2610279-7682-4507-aea7-c8b1386771a6",
+        "username": "organicwolf411",
+        "password": "shou"
+      },
+      "phone": "91148217",
+      "id": {
+        "name": "DACH"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/56.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+      }
+    },
+    {
+      "gender": "male",
+      "name": {
+        "jobtitle": "Lektor",
+        "first": "Önal",
+        "last": "Oraloğlu"
+      },
+      "email": "onal.oraloglu@example.com",
+      "login": {
+        "uuid": "bd97c717-124a-4ed8-bcf9-150374bd293b",
+        "username": "ticklishpeacock251",
+        "password": "mommy"
+      },
+      "phone": "(993)-590-8875",
+      "id": {
+        "name": "ONOR"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/40.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "jobtitle": "Lektor",
+        "first": "Delphine",
+        "last": "Gagnon"
+      },
+      "email": "delphine.gagnon@example.com",
+      "login": {
+        "uuid": "2ec8c295-09cb-4643-81ee-cbbefad708c5",
+        "username": "happygorilla558",
+        "password": "preacher"
+      },
+      "phone": "503-058-2642",
+      "id": {
+        "name": "DEGA"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/21.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "jobtitle": "Lektor",
+        "first": "Ece",
+        "last": "Erez"
+      },
+      "email": "ece.erez@example.com",
+      "login": {
+        "uuid": "964eb58c-8fc1-47c6-a296-21128b942992",
+        "username": "silverlion916",
+        "password": "jarvis"
+      },
+      "phone": "(090)-155-8625",
+      "id": {
+        "name": "ECER"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/20.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "jobtitle": "Adjunkt",
+        "first": "Alicia",
+        "last": "Castillo"
+      },
+      "email": "alicia.castillo@example.com",
+      "login": {
+        "uuid": "46420325-7431-4503-94de-93841f58ce7c",
+        "username": "purplepanda756",
+        "password": "bricks"
+      },
+      "phone": "921-472-061",
+      "id": {
+        "name": "DNI"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/17.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "jobtitle": "Lektor",
+        "first": "Frida",
+        "last": "Rasmussen"
+      },
+      "email": "frida.rasmussen@example.com",
+      "login": {
+        "uuid": "5739f237-d42b-42ba-bad3-25ea2e1dad58",
+        "username": "blackelephant184",
+        "password": "smoke"
+      },
+      "phone": "28733543",
+      "id": {
+        "name": "FRRA"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/59.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+      }
+    },
+    {
+      "gender": "female",
+      "name": {
+        "jobtitle": "Adjunkt",
+        "first": "Ludwina",
+        "last": "Hertlein"
+      },
+      "email": "ludwina.hertlein@example.com",
+      "login": {
+        "uuid": "24292846-39dc-4205-afe6-9f0edc8dfce1",
+        "username": "yellowpeacock322",
+        "password": "yellow"
+      },
+      "phone": "0172-0860599",
+      "id": {
+        "name": "LUHE"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/91.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+      }
+    }
+]

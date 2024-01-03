@@ -1,0 +1,83 @@
+[
+  {
+    "courseId": "1",
+    "courseName": "Content management",
+    "credit": "7.5",
+    "school": "University of Borås",
+    "startWeek": "4",
+    "endWeek": "8",
+    "teachers": [
+      "CHMA"
+    ]
+  },
+  {
+    "courseId": "2",
+    "courseName": "Criminology",
+    "credit": "7.5",
+    "school": "Standford University",
+    "startWeek": "4",
+    "endWeek": "13",
+    "teachers": [
+      "AVLI"
+    ]
+  },
+  {
+    "courseId": "3",
+    "courseName": "Chemistry",
+    "credit": "7.5",
+    "school": "Aalborg University",
+    "startWeek": "4",
+    "endWeek": "8",
+    "teachers": [
+      "CHMA"
+    ]
+  },
+  {
+    "courseId": "4",
+    "courseName": "Celtic studies",
+    "credit": "7.5",
+    "school": "Bacone Colleague",
+    "startWeek": "48",
+    "endWeek": "52",
+    "teachers": [
+      "CHMA"
+    ]
+  },
+  {
+    "courseId": "5",
+    "courseName": "Fysics",
+    "credit": "7.5",
+    "school": "Badr University",
+    "startWeek": "10",
+    "endWeek": "25",
+    "teachers": [
+      "DEGA",
+      "CHMA",
+      "FRRA",
+      "AVLI",
+      "NINO"
+    ]
+  },
+  {
+    "courseId": "6",
+    "courseName": "Art Fundamentals",
+    "credit": "7.5",
+    "school": "Batumi Art Univerity",
+    "startWeek": "36",
+    "endWeek": "41",
+    "teachers": [
+      "DACH"
+    ]
+  },
+  {
+    "courseId": "7",
+    "courseName": "Medicine 1",
+    "credit": "7.5",
+    "school": "Omsk state Univerity",
+    "startWeek": "11",
+    "endWeek": "20",
+    "teachers": [
+      "ONOR"
+    ]
+  }
+]

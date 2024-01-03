@@ -1,0 +1,86 @@
+[
+  {
+    "course": [7, 4, 3],
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does HTML stand for",
+    "correct_answer": "HyperText Markup Language",
+    "incorrect_answers": [
+      "Hyper Tool Markup Language",
+      "Hyperlink Text Markup Language",
+      "HyperText Marker Language"
+    ]
+  },
+  {
+    "course": [4, 3],
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Choose the correct HTML element for the largest heading:",
+    "correct_answer": "h1",
+    "incorrect_answers": ["heading", "h6", "head"]
+  },
+  {
+    "course": [4, 3],
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is making the Web standards?",
+    "correct_answer": "W3C",
+    "incorrect_answers": ["Google", "Mozilla", "Microsoft"]
+  },
+  {
+    "course": [7],
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which sign does jQuery use as a shortcut for jQuery?",
+    "correct_answer": "the $",
+    "incorrect_answers": ["the #", "the .", "the {}"]
+  },
+  {
+    "course": [7],
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Look at the following selector: $(div). What does it select?",
+    "correct_answer": "All div elements",
+    "incorrect_answers": ["The first div element"]
+  },
+  {
+    "course": [7],
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which jQuery method is used to hide selected elements?",
+    "correct_answer": "hide()",
+    "incorrect_answers": ["visible()", "hidden()", "display(none)"]
+  },
+  {
+    "course": [7],
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which jQuery method is used to set one or more style properties for selected elements?",
+    "correct_answer": "css()",
+    "incorrect_answers": ["style()", "html()"]
+  },
+  {
+    "course": [7],
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which jQuery method is used to switch between adding/removing one or more classes (for CSS) from selected elements?",
+    "correct_answer": "toggleClass()  ",
+    "incorrect_answers": ["altClass()", "switchClass()", "switch()"]
+  },
+  {
+    "course": [7],
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What scripting language is jQuery written in?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": ["C++", "Java", "VBScript"]
+  },
+  {
+    "course": [7],
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "Is it possible to use jQuery together with AJAX?",
+    "correct_answer": "Yes",
+    "incorrect_answers": ["No"]
+  }
+]
